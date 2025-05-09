@@ -3,31 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Breanna Burns</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h1 {
-      color: hotpink;
-    }
-    a {
-      color: deeppink;
-      text-decoration: none;
-    }
-    .gallery {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 15px;
-      margin-top: 20px;
-    }
-    .gallery img {
-      width: 200px;
-      height: auto;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    }
-  </style>
 </head>
 <body>
   <h1>Welcome to My Official Website</h1>
@@ -36,13 +11,5 @@
       www.theonlybreannaburns.com
     </a>
   </p>
-
-  <h2>Photo Gallery</h2>
-  <div class="gallery">
-    <img src="images/photo1.jpg" alt="Photo 1">
-    <img src="images/photo2.jpg" alt="Photo 2">
-    <img src="images/photo3.jpg" alt="Photo 3">
-    <!-- Add more <img> tags here as needed -->
-  </div>
 </body>
 </html>
